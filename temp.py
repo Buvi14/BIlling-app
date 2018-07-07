@@ -10,7 +10,5 @@ import pandas as pd                                       #for import the data
 mydata=pd.read_csv('example.csv')                         #import the data
 x=input("Enter the product_id/product_value/price:")      #x-axis values
 y=input("Enter the product_id/product_value/price:")      #y-axis values
-mp.hist(x,bins=10)                                        #for histogram representation
-mp.hist(y,bins=10)
-#mp.bar(x,y,width=1,color="green")
+mydata.plot.bar(x,y)
 mp.show()                                                 #showing the histogram
