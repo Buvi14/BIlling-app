@@ -1,0 +1,1000 @@
+﻿product_id,product_name,price,gst
+1,Appliances,208.16,68.02
+2,Binders and Binder Accessories,8.69,2.99
+3,Telephones and Communication,195.99,3.99
+4,Appliances,21.78,5.94
+5,Office Furnishings,6.64,4.95
+6,Binders and Binder Accessories,7.3,7.72
+7,Storage & Organization,42.76,6.22
+8,Storage & Organization,138.14,35
+9,Paper,4.98,8.33
+10,Paper,4.28,6.18
+11,Rubber Bands,3.95,2
+12,Appliances,21.78,5.94
+13,Computer Peripherals,47.98,3.61
+14,Binders and Binder Accessories,5.28,2.99
+15,Office Furnishings,39.89,3.04
+16,Envelopes,15.74,1.39
+17,Bookcases,100.98,26.22
+18,Tables,71.37,69
+19,Telephones and Communication,65.99,5.26
+20,Telephones and Communication,155.99,8.99
+21,Labels,3.69,0.5
+22,Rubber Bands,4.71,0.7
+23,Binders and Binder Accessories,15.99,13.18
+24,Computer Peripherals,4.89,4.93
+25,Pens & Art Supplies,2.88,0.7
+26,Pens & Art Supplies,2.84,0.93
+27,Copiers and Fax,449.99,49
+28,Storage & Organization,13.48,4.51
+29,Pens & Art Supplies,6.08,1.17
+30,Computer Peripherals,5.98,4.38
+31,Paper,40.99,19.99
+32,Labels,7.31,0.49
+33,Telephones and Communication,20.99,2.5
+34,Computer Peripherals,40.96,1.99
+35,Chairs & Chairmats,95.95,74.35
+36,Binders and Binder Accessories,3.89,7.01
+37,Chairs & Chairmats,120.98,30
+38,Paper,30.98,5.76
+39,Chairs & Chairmats,500.98,26
+40,Binders and Binder Accessories,7.84,4.71
+41,Paper,18.97,9.03
+42,Telephones and Communication,115.99,2.5
+43,Labels,2.88,0.5
+44,Appliances,4.48,49
+45,Telephones and Communication,125.99,7.69
+46,Labels,3.75,0.5
+47,Paper,12.28,6.47
+48,Telephones and Communication,155.99,8.99
+49,Binders and Binder Accessories,8.69,2.99
+50,Computer Peripherals,31.78,1.99
+51,Paper,3.98,2.97
+52,Paper,5.88,3.04
+53,Office Furnishings,9.65,6.22
+54,Telephones and Communication,7.99,5.03
+55,Binders and Binder Accessories,58.1,1.49
+56,Appliances,80.48,4.5
+57,Office Furnishings,92.23,39.61
+58,Telephones and Communication,85.99,0.99
+59,Paper,11.48,5.43
+60,"Scissors, Rulers and Trimmers",1637.53,24.49
+61,Paper,6.48,6.65
+62,Paper,6.48,7.86
+63,Pens & Art Supplies,28.15,8.99
+64,Paper,4.98,4.75
+65,Paper,6.35,1.02
+66,Storage & Organization,10.9,7.46
+67,Binders and Binder Accessories,7.3,7.72
+68,Computer Peripherals,39.48,1.99
+69,Bookcases,100.98,57.38
+70,Office Furnishings,19.98,10.49
+71,Chairs & Chairmats,276.2,24.49
+72,Envelopes,15.67,1.39
+73,Appliances,25.98,5.37
+74,Chairs & Chairmats,300.98,64.73
+75,Paper,19.98,5.97
+76,Paper,6.48,7.03
+77,Storage & Organization,80.98,35
+78,Binders and Binder Accessories,1.88,1.49
+79,Paper,6.48,5.86
+80,Office Furnishings,102.3,21.26
+81,Paper,6.48,8.19
+82,Rubber Bands,1.89,0.76
+83,Appliances,62.05,3.99
+84,Storage & Organization,279.48,35
+85,Chairs & Chairmats,320.98,58.95
+86,Paper,18.97,5.21
+87,Paper,48.91,5.81
+88,Labels,4.13,0.5
+89,Bookcases,140.98,53.48
+90,Chairs & Chairmats,218.08,18.06
+91,Computer Peripherals,50.98,6.5
+92,Paper,10.14,2.27
+93,Binders and Binder Accessories,15.99,13.18
+94,Tables,262.11,62.74
+95,Office Furnishings,33.98,19.99
+96,Pens & Art Supplies,1.76,0.7
+97,Pens & Art Supplies,19.84,4.1
+98,Paper,19.98,5.77
+99,Telephones and Communication,95.99,8.99
+100,Storage & Organization,111.03,8.64
+101,Binders and Binder Accessories,43.41,2.99
+102,Office Furnishings,105.34,24.49
+103,Labels,3.69,0.5
+104,Tables,146.34,43.75
+105,Binders and Binder Accessories,15.22,9.73
+106,Storage & Organization,15.7,11.25
+107,Tables,179.29,29.21
+108,Telephones and Communication,200.99,8.08
+109,Office Furnishings,194.3,11.54
+110,Office Machines,120.97,7.11
+111,Binders and Binder Accessories,5.81,8.49
+112,Office Machines,1938.02,13.99
+113,Chairs & Chairmats,226.67,28.16
+114,Office Furnishings,2.08,5.33
+115,Copiers and Fax,499.99,24.49
+116,Storage & Organization,20.98,53.03
+117,Labels,30.53,19.99
+118,Pens & Art Supplies,1.68,1.57
+119,Chairs & Chairmats,270.98,50
+120,Paper,4.48,1.22
+121,Storage & Organization,10.9,7.46
+122,Telephones and Communication,7.99,5.03
+123,Appliances,21.66,13.99
+124,Paper,6.48,8.88
+125,Paper,35.44,7.5
+126,Binders and Binder Accessories,15.99,13.18
+127,Paper,11.34,5.01
+128,Paper,35.44,5.09
+129,Binders and Binder Accessories,30.98,11.63
+130,Binders and Binder Accessories,34.54,14.72
+131,Bookcases,170.98,60.49
+132,Computer Peripherals,20.95,4
+133,Appliances,207.48,0.99
+134,Bookcases,58.14,36.61
+135,Office Furnishings,6.64,4.95
+136,Office Machines,145.45,17.85
+137,Pens & Art Supplies,2.21,1.12
+138,Paper,40.99,17.48
+139,Chairs & Chairmats,243.98,43.32
+140,Office Furnishings,39.98,9.2
+141,Office Furnishings,12.58,5.16
+142,Bookcases,48.58,54.11
+143,Office Furnishings,105.98,13.99
+144,Paper,7.04,2.17
+145,Computer Peripherals,9.78,1.99
+146,Office Furnishings,12.22,2.85
+147,Computer Peripherals,43.98,1.99
+148,Storage & Organization,34.76,8.22
+149,Telephones and Communication,55.99,5
+150,Paper,6.48,6.57
+151,Binders and Binder Accessories,30.56,2.99
+152,Pens & Art Supplies,5.16,0.73
+153,"Scissors, Rulers and Trimmers",3.68,1.32
+154,Chairs & Chairmats,355.98,58.92
+155,Tables,218.75,69.64
+156,Office Furnishings,41.47,34.2
+157,Pens & Art Supplies,2.78,1.2
+158,Telephones and Communication,155.99,3.9
+159,Paper,22.84,16.87
+160,Paper,5.78,8.09
+161,Pens & Art Supplies,6.7,1.56
+162,Office Machines,1360.14,14.7
+163,Chairs & Chairmats,270.98,50
+164,Computer Peripherals,20.97,6.5
+165,Paper,22.84,16.87
+166,Chairs & Chairmats,180.98,26.2
+167,Chairs & Chairmats,130.98,30
+168,Paper,4.28,5.17
+169,Storage & Organization,28.28,13.99
+170,Telephones and Communication,55.99,5
+171,Binders and Binder Accessories,3.8,1.49
+172,Computer Peripherals,30.73,4
+173,Telephones and Communication,125.99,8.08
+174,Telephones and Communication,20.99,0.99
+175,Binders and Binder Accessories,1270.99,19.99
+176,Appliances,11.97,4.98
+177,Storage & Organization,12.28,6.13
+178,Computer Peripherals,39.24,1.99
+179,Office Machines,17.98,8.51
+180,Binders and Binder Accessories,12.95,4.98
+181,Pens & Art Supplies,1.68,1.57
+182,Chairs & Chairmats,25.98,14.36
+183,Paper,10.31,1.79
+184,Binders and Binder Accessories,59.78,10.29
+185,Telephones and Communication,20.99,1.25
+186,Pens & Art Supplies,1.68,1.57
+187,Pens & Art Supplies,7.08,2.35
+188,Office Machines,574.74,24.49
+189,Pens & Art Supplies,36.55,13.89
+190,Telephones and Communication,55.99,3.3
+191,Office Furnishings,51.75,19.99
+192,Storage & Organization,55.29,5.08
+193,Office Furnishings,9.65,6.22
+194,Telephones and Communication,20.99,3.3
+195,Telephones and Communication,7.99,5.03
+196,Envelopes,7.64,1.39
+197,Binders and Binder Accessories,8.85,5.6
+198,Paper,6.48,6.81
+199,Labels,2.88,0.99
+200,Bookcases,880.98,44.55
+201,Office Machines,200.97,15.59
+202,Computer Peripherals,20.89,1.99
+203,Envelopes,11.58,6.97
+204,Labels,4.13,0.5
+205,Pens & Art Supplies,2.78,1.34
+206,Computer Peripherals,14.48,1.99
+207,Computer Peripherals,99.99,19.99
+208,Paper,4.98,4.86
+209,Paper,21.98,8.32
+210,Telephones and Communication,195.99,3.99
+211,Office Machines,200.97,15.59
+212,Office Furnishings,40.97,14.45
+213,Tables,349.45,60
+214,Office Machines,80.97,33.6
+215,Chairs & Chairmats,216.6,64.2
+216,Chairs & Chairmats,140.81,24.49
+217,Office Furnishings,22.72,8.99
+218,Office Furnishings,19.98,10.49
+219,Office Machines,1500.97,29.7
+220,Computer Peripherals,20.95,4
+221,Envelopes,23.99,6.71
+222,Binders and Binder Accessories,24.92,12.98
+223,Computer Peripherals,39.48,1.99
+224,Paper,38.76,13.26
+225,Rubber Bands,2.47,1.02
+226,Chairs & Chairmats,33.94,19.19
+227,Computer Peripherals,8.33,1.99
+228,Paper,18.97,9.03
+229,Bookcases,150.98,66.27
+230,Chairs & Chairmats,140.81,24.49
+231,Paper,22.84,5.47
+232,Storage & Organization,34.76,5.49
+233,Labels,2.88,0.5
+234,Telephones and Communication,205.99,5.26
+235,Binders and Binder Accessories,5.4,7.78
+236,Computer Peripherals,8.46,8.99
+237,Office Furnishings,14.98,8.99
+238,Telephones and Communication,155.99,8.08
+239,Office Furnishings,25.38,8.99
+240,Computer Peripherals,10.97,6.5
+241,Computer Peripherals,99.99,19.99
+242,Storage & Organization,193.17,19.99
+243,Telephones and Communication,20.99,3.3
+244,Office Furnishings,19.99,11.17
+245,Office Machines,150.98,13.99
+246,Storage & Organization,370.98,99
+247,Telephones and Communication,179.99,13.99
+248,Paper,6.74,1.72
+249,Appliances,10.89,4.5
+250,Paper,6.48,6.6
+251,Binders and Binder Accessories,223.98,15.01
+252,Bookcases,140.98,36.09
+253,Paper,54.96,10.75
+254,Rubber Bands,1.26,0.7
+255,Paper,4.98,6.07
+256,Binders and Binder Accessories,18.99,5.23
+257,Appliances,46.89,5.1
+258,"Scissors, Rulers and Trimmers",12.98,3.14
+259,Binders and Binder Accessories,10.91,2.99
+260,Paper,4.98,4.75
+261,Storage & Organization,415.88,11.37
+262,Telephones and Communication,65.99,5.92
+263,Telephones and Communication,115.99,2.5
+264,Computer Peripherals,5.02,5.14
+265,Pens & Art Supplies,19.84,4.1
+266,Binders and Binder Accessories,6.75,2.99
+267,Binders and Binder Accessories,5.74,5.01
+268,Office Machines,270.97,28.06
+269,Bookcases,260.98,41.91
+270,Binders and Binder Accessories,387.99,19.99
+271,Bookcases,160.98,35.02
+272,Labels,3.08,0.99
+273,Copiers and Fax,499.99,24.49
+274,Storage & Organization,138.14,35
+275,Binders and Binder Accessories,41.94,2.99
+276,Labels,7.31,0.49
+277,Telephones and Communication,65.99,3.9
+278,Paper,7.64,5.83
+279,Office Furnishings,40.97,14.45
+280,Chairs & Chairmats,299.05,87.01
+281,Chairs & Chairmats,291.73,48.8
+282,Computer Peripherals,30.42,8.65
+283,Storage & Organization,415.88,11.37
+284,Office Furnishings,19.94,14.87
+285,"Scissors, Rulers and Trimmers",3.68,1.32
+286,Appliances,11.97,4.98
+287,Storage & Organization,29.74,6.64
+288,Storage & Organization,95.43,19.99
+289,Appliances,300.65,24.49
+290,Computer Peripherals,45.19,1.99
+291,Binders and Binder Accessories,28.53,1.49
+292,Paper,5.68,1.46
+293,Storage & Organization,15.51,17.78
+294,Binders and Binder Accessories,5.81,8.49
+295,Rubber Bands,1.81,0.75
+296,Paper,6.68,6.93
+297,Rubber Bands,3.93,0.99
+298,Office Machines,150.98,13.99
+299,Pens & Art Supplies,1.76,0.7
+300,Appliances,177.98,0.99
+301,Office Furnishings,20.24,8.99
+302,Bookcases,150.98,66.27
+303,Telephones and Communication,20.99,0.99
+304,Telephones and Communication,65.99,5.26
+305,Paper,5.18,2.04
+306,"Scissors, Rulers and Trimmers",17.24,3.26
+307,Pens & Art Supplies,2.6,2.4
+308,Storage & Organization,14.97,7.51
+309,Computer Peripherals,60.98,1.99
+310,Storage & Organization,29.74,6.64
+311,Storage & Organization,12.21,4.81
+312,Paper,29.14,4.86
+313,Binders and Binder Accessories,11.5,7.19
+314,Storage & Organization,15.7,11.25
+315,Storage & Organization,225.02,28.66
+316,Paper,9.27,4.39
+317,"Scissors, Rulers and Trimmers",6.84,8.37
+318,Computer Peripherals,4.98,4.62
+319,Computer Peripherals,32.98,5.5
+320,Office Machines,500.97,69.3
+321,Labels,2.61,0.5
+322,Labels,7.31,0.49
+323,Telephones and Communication,20.99,2.5
+324,Binders and Binder Accessories,5.34,2.99
+325,Appliances,4.06,6.89
+326,Office Machines,99.99,19.99
+327,Envelopes,11.58,6.97
+328,Binders and Binder Accessories,3.36,6.27
+329,Copiers and Fax,699.99,24.49
+330,Rubber Bands,4.71,0.7
+331,Pens & Art Supplies,5.84,1.2
+332,Tables,218.75,69.64
+333,Computer Peripherals,15.98,8.99
+334,Binders and Binder Accessories,22.38,15.1
+335,Binders and Binder Accessories,12.95,4.98
+336,Telephones and Communication,155.99,8.99
+337,Telephones and Communication,35.99,3.3
+338,Computer Peripherals,99.99,19.99
+339,Storage & Organization,48.91,35
+340,Rubber Bands,3.78,0.71
+341,Computer Peripherals,26.31,5.89
+342,Computer Peripherals,20.95,5.99
+343,Paper,55.98,13.88
+344,Storage & Organization,80.98,35
+345,Storage & Organization,12.21,4.81
+346,"Scissors, Rulers and Trimmers",13.9,7.59
+347,Office Furnishings,55.5,52.2
+348,Paper,5.28,5.66
+349,Tables,296.18,54.12
+350,Office Furnishings,92.23,39.61
+351,Binders and Binder Accessories,1270.99,19.99
+352,Chairs & Chairmats,122.99,70.2
+353,Binders and Binder Accessories,18.99,5.23
+354,Chairs & Chairmats,218.08,18.06
+355,Office Furnishings,20.24,6.67
+356,Rubber Bands,2.18,0.78
+357,Computer Peripherals,4.98,4.62
+358,Telephones and Communication,65.99,8.99
+359,Telephones and Communication,65.99,5.31
+360,Chairs & Chairmats,50.98,14.19
+361,Tables,124.49,51.94
+362,Binders and Binder Accessories,22.38,15.1
+363,Office Furnishings,63.94,14.48
+364,Binders and Binder Accessories,4.13,5.04
+365,Chairs & Chairmats,122.99,70.2
+366,Binders and Binder Accessories,7.1,6.05
+367,Pens & Art Supplies,21.38,8.99
+368,Telephones and Communication,35.99,0.99
+369,Telephones and Communication,85.99,1.25
+370,Computer Peripherals,30.73,4
+371,Storage & Organization,15.7,11.25
+372,Binders and Binder Accessories,11.5,7.19
+373,Appliances,4.48,49
+374,Appliances,67.84,0.99
+375,Chairs & Chairmats,276.2,24.49
+376,Telephones and Communication,85.99,2.5
+377,Chairs & Chairmats,200.98,23.76
+378,Telephones and Communication,65.99,5.31
+379,Binders and Binder Accessories,896.99,19.99
+380,Binders and Binder Accessories,15.01,8.4
+381,Computer Peripherals,20.97,6.5
+382,Computer Peripherals,10.01,1.99
+383,Paper,6.68,5.2
+384,Office Furnishings,9.77,6.02
+385,Appliances,76.72,19.95
+386,Appliances,59.98,3.99
+387,Telephones and Communication,65.99,8.99
+388,Envelopes,23.99,6.71
+389,Envelopes,162.93,19.99
+390,Envelopes,10.94,1.39
+391,Binders and Binder Accessories,40.98,2.99
+392,Binders and Binder Accessories,5.99,4.92
+393,Telephones and Communication,65.99,8.99
+394,Binders and Binder Accessories,4.57,5.42
+395,Envelopes,10.67,1.39
+396,Office Machines,442.14,14.7
+397,Office Furnishings,1.74,4.08
+398,Telephones and Communication,55.99,5
+399,Office Furnishings,33.98,19.99
+400,Telephones and Communication,200.99,4.2
+401,Chairs & Chairmats,135.99,28.63
+402,Office Furnishings,63.94,14.48
+403,Office Machines,140.99,13.99
+404,Telephones and Communication,20.99,0.99
+405,Computer Peripherals,39.24,1.99
+406,Paper,7.64,5.83
+407,Office Furnishings,54.74,14.83
+408,Labels,6.3,0.5
+409,Pens & Art Supplies,2.84,0.93
+410,Binders and Binder Accessories,3.58,5.47
+411,Pens & Art Supplies,5.85,2.27
+412,Rubber Bands,3.29,1.35
+413,"Scissors, Rulers and Trimmers",10.98,3.37
+414,"Scissors, Rulers and Trimmers",8.45,7.77
+415,Office Furnishings,5.89,5.57
+416,Labels,4.91,0.5
+417,Pens & Art Supplies,15.94,5.45
+418,Paper,22.84,16.87
+419,Office Machines,204.1,13.99
+420,Labels,98.31,0.49
+421,Appliances,60.98,49
+422,Office Machines,145.45,17.85
+423,Storage & Organization,12.28,6.13
+424,Office Furnishings,107.53,5.81
+425,Labels,2.89,0.5
+426,Binders and Binder Accessories,20.98,8.83
+427,Tables,100.8,60
+428,Binders and Binder Accessories,120.98,9.07
+429,Envelopes,16.98,12.39
+430,"Scissors, Rulers and Trimmers",12.98,3.14
+431,Telephones and Communication,7.99,5.03
+432,Telephones and Communication,195.99,8.99
+433,Office Furnishings,136.98,24.49
+434,Telephones and Communication,125.99,5.63
+435,Office Machines,115.99,56.14
+436,Storage & Organization,32.48,35
+437,Tables,182.55,69
+438,Labels,2.88,0.5
+439,Pens & Art Supplies,2.94,0.96
+440,Storage & Organization,12.28,6.13
+441,Tables,349.45,60
+442,Office Machines,120.97,26.3
+443,Pens & Art Supplies,21.98,2.87
+444,Office Machines,15.99,9.4
+445,Pens & Art Supplies,2.78,1.25
+446,Pens & Art Supplies,6.47,1.22
+447,Rubber Bands,3.93,0.99
+448,Office Furnishings,136.98,24.49
+449,Labels,4.13,0.99
+450,Binders and Binder Accessories,5.81,8.49
+451,Office Furnishings,9.65,6.22
+452,Bookcases,58.14,36.61
+453,Telephones and Communication,110.99,2.5
+454,Appliances,279.81,23.19
+455,Appliances,78.65,13.99
+456,Paper,35.44,4.92
+457,Pens & Art Supplies,11.66,8.99
+458,Pens & Art Supplies,10.48,2.89
+459,Office Furnishings,6.28,5.41
+460,Computer Peripherals,22.98,1.99
+461,Chairs & Chairmats,300.98,64.73
+462,Storage & Organization,155.06,7.07
+463,Computer Peripherals,55.94,6.55
+464,Binders and Binder Accessories,5.28,2.99
+465,Office Furnishings,7.59,4
+466,Storage & Organization,5.98,4.69
+467,Office Machines,2550.14,29.7
+468,Paper,55.48,14.3
+469,Telephones and Communication,28.99,8.59
+470,Labels,4.91,0.5
+471,Tables,259.71,66.67
+472,Binders and Binder Accessories,59.78,10.29
+473,Labels,4.13,0.5
+474,Paper,30.98,17.08
+475,Office Furnishings,7.38,5.21
+476,Paper,26.38,5.86
+477,Binders and Binder Accessories,2.16,6.05
+478,Appliances,50.98,13.66
+479,Office Furnishings,2.08,5.33
+480,Paper,6.48,9.54
+481,Storage & Organization,64.98,6.88
+482,Office Furnishings,19.23,6.15
+483,Chairs & Chairmats,300.98,64.73
+484,Chairs & Chairmats,500.98,26
+485,Computer Peripherals,45.19,1.99
+486,Pens & Art Supplies,11.97,5.81
+487,Binders and Binder Accessories,4.55,1.49
+488,Computer Peripherals,28.48,1.99
+489,Office Furnishings,4.14,6.6
+490,Labels,12.53,0.5
+491,Pens & Art Supplies,5.85,2.27
+492,Tables,280.98,81.98
+493,Appliances,177.98,0.99
+494,Chairs & Chairmats,50.98,14.19
+495,Paper,48.04,7.23
+496,Labels,2.61,0.5
+497,Office Machines,15.99,9.4
+498,Binders and Binder Accessories,8.04,8.94
+499,Office Furnishings,2.23,4.57
+500,Binders and Binder Accessories,12.95,4.98
+501,Office Machines,115.99,56.14
+502,Telephones and Communication,65.99,8.99
+503,Computer Peripherals,15.98,4
+504,Storage & Organization,140.85,19.99
+505,Pens & Art Supplies,4.28,0.94
+506,Appliances,56.96,13.22
+507,Storage & Organization,279.48,35
+508,Binders and Binder Accessories,165.98,19.99
+509,Labels,3.08,0.5
+510,Chairs & Chairmats,128.24,12.65
+511,Envelopes,10.98,4.8
+512,Computer Peripherals,29.89,1.99
+513,Computer Peripherals,40.48,19.99
+514,Telephones and Communication,35.99,0.99
+515,Appliances,180.98,55.24
+516,Bookcases,150.98,66.27
+517,Binders and Binder Accessories,3.81,5.44
+518,Binders and Binder Accessories,11.5,7.19
+519,Pens & Art Supplies,22.99,8.99
+520,Pens & Art Supplies,11.66,7.95
+521,"Scissors, Rulers and Trimmers",12.88,4.59
+522,Binders and Binder Accessories,15.28,10.91
+523,Bookcases,300.98,54.92
+524,Telephones and Communication,65.99,5.99
+525,Labels,4.91,0.5
+526,Storage & Organization,27.75,19.99
+527,Office Furnishings,110.98,13.99
+528,"Scissors, Rulers and Trimmers",2.18,5
+529,Copiers and Fax,699.99,24.49
+530,Telephones and Communication,110.99,8.99
+531,Pens & Art Supplies,3.38,0.85
+532,Envelopes,8.74,1.39
+533,Binders and Binder Accessories,2.78,1.49
+534,Office Furnishings,4.14,6.6
+535,Paper,6.48,7.86
+536,Pens & Art Supplies,3.28,3.97
+537,Envelopes,9.78,1.39
+538,Pens & Art Supplies,3.28,3.97
+539,Binders and Binder Accessories,12.95,4.98
+540,Binders and Binder Accessories,24.92,12.98
+541,Computer Peripherals,83.1,6.13
+542,Office Furnishings,90.98,56.2
+543,Paper,6.48,5.16
+544,Computer Peripherals,39.99,10.25
+545,Chairs & Chairmats,300.98,64.73
+546,Storage & Organization,20.98,45
+547,Paper,5.98,7.5
+548,Paper,5.28,6.26
+549,Paper,18.97,9.54
+550,Telephones and Communication,65.99,3.99
+551,Office Furnishings,4.82,5.72
+552,Telephones and Communication,125.99,8.08
+553,Paper,5.78,5.67
+554,Bookcases,140.98,36.09
+555,Chairs & Chairmats,122.99,70.2
+556,Paper,5.43,0.95
+557,Computer Peripherals,28.48,1.99
+558,Appliances,363.25,19.99
+559,Pens & Art Supplies,2.88,0.7
+560,Computer Peripherals,49.99,19.99
+561,Office Furnishings,19.99,11.17
+562,Binders and Binder Accessories,40.98,7.47
+563,Office Furnishings,10.64,5.16
+564,Pens & Art Supplies,2.78,1.34
+565,Paper,5.98,5.2
+566,Office Machines,23.99,6.3
+567,Telephones and Communication,65.99,8.99
+568,Copiers and Fax,499.99,24.49
+569,Bookcases,100.98,26.22
+570,Office Furnishings,51.65,18.45
+571,Binders and Binder Accessories,28.53,1.49
+572,Computer Peripherals,99.99,19.99
+573,Pens & Art Supplies,21.38,8.99
+574,Tables,348.21,84.84
+575,Appliances,60.98,49
+576,Tables,290.98,69
+577,Computer Peripherals,30.98,6.5
+578,Paper,10.06,2.06
+579,Office Furnishings,14.2,5.3
+580,Telephones and Communication,65.99,5.26
+581,Paper,5.98,7.5
+582,Telephones and Communication,65.99,5.92
+583,Copiers and Fax,549.99,49
+584,Appliances,68.81,60
+585,Binders and Binder Accessories,5.18,5.74
+586,Binders and Binder Accessories,420.98,19.99
+587,Office Furnishings,29.18,8.55
+588,Pens & Art Supplies,6.68,1.5
+589,Appliances,225.04,11.79
+590,Pens & Art Supplies,2.84,0.93
+591,Tables,31.76,45.51
+592,Office Furnishings,6.28,5.29
+593,Computer Peripherals,39.48,1.99
+594,Office Furnishings,3.7,1.61
+595,Storage & Organization,11.29,5.03
+596,Telephones and Communication,195.99,4.2
+597,Binders and Binder Accessories,172.99,19.99
+598,Paper,30.98,5.76
+599,Paper,19.98,8.68
+600,Telephones and Communication,125.99,7.69
+601,Chairs & Chairmats,238.4,24.49
+602,Copiers and Fax,199.99,24.49
+603,Envelopes,5.68,1.39
+604,Office Furnishings,19.98,10.49
+605,Office Machines,90.97,28
+606,Rubber Bands,1.48,0.7
+607,Appliances,180.98,55.24
+608,Appliances,60.22,3.5
+609,Copiers and Fax,199.99,24.49
+610,Office Furnishings,12.22,2.85
+611,Envelopes,5.98,2.5
+612,Pens & Art Supplies,5.84,1.2
+613,Binders and Binder Accessories,4.91,4.97
+614,Copiers and Fax,3499.99,24.49
+615,Pens & Art Supplies,5.84,1.2
+616,Tables,550.98,147.12
+617,Computer Peripherals,45.19,1.99
+618,Telephones and Communication,45.99,4.99
+619,Computer Peripherals,8.12,2.83
+620,Office Furnishings,51.65,18.45
+621,Pens & Art Supplies,6.68,1.5
+622,Telephones and Communication,175.99,8.99
+623,Copiers and Fax,499.99,24.49
+624,Office Furnishings,22.23,3.63
+625,Pens & Art Supplies,4.84,0.71
+626,Pens & Art Supplies,20.15,8.99
+627,Paper,6.48,5.19
+628,Binders and Binder Accessories,3.52,6.83
+629,Binders and Binder Accessories,67.28,19.99
+630,Labels,2.89,0.49
+631,Office Furnishings,41.32,8.66
+632,Paper,8.95,2.01
+633,Office Furnishings,13.79,8.78
+634,Computer Peripherals,100.98,7.18
+635,Paper,6.48,7.49
+636,Computer Peripherals,100.98,7.18
+637,Copiers and Fax,599.99,24.49
+638,Pens & Art Supplies,2.6,2.4
+639,Binders and Binder Accessories,20.98,1.49
+640,Appliances,3.48,49
+641,Envelopes,3.69,2.5
+642,Paper,4.28,5.74
+643,Binders and Binder Accessories,420.98,19.99
+644,Office Furnishings,26.48,6.93
+645,Envelopes,5.68,1.39
+646,Binders and Binder Accessories,15.01,8.4
+647,Computer Peripherals,40.48,19.99
+648,Storage & Organization,12.28,6.13
+649,Binders and Binder Accessories,8.85,5.6
+650,Chairs & Chairmats,110.98,30
+651,Paper,104.85,4.65
+652,Chairs & Chairmats,50.98,14.19
+653,Office Furnishings,14.58,7.4
+654,Office Furnishings,45.98,4.8
+655,Computer Peripherals,19.98,4
+656,Computer Peripherals,10.97,6.5
+657,Binders and Binder Accessories,10.98,5.14
+658,Binders and Binder Accessories,14.27,7.27
+659,Office Machines,9.49,5.76
+660,Chairs & Chairmats,216.6,64.2
+661,Office Furnishings,22.23,5.08
+662,Telephones and Communication,55.99,1.25
+663,Computer Peripherals,29.89,1.99
+664,Paper,8.34,4.82
+665,Tables,124.49,51.94
+666,Paper,19.98,5.97
+667,Office Furnishings,8.75,8.54
+668,Pens & Art Supplies,5.85,2.27
+669,Binders and Binder Accessories,3.8,1.49
+670,Paper,7.98,1.25
+671,Tables,417.4,75.23
+672,Paper,7.28,11.15
+673,Binders and Binder Accessories,5.53,6.98
+674,Office Furnishings,10.68,13.04
+675,Office Furnishings,110.98,13.99
+676,Office Furnishings,105.98,13.99
+677,Paper,6.68,6.93
+678,Appliances,46.89,5.1
+679,Telephones and Communication,125.99,3
+680,Telephones and Communication,195.99,8.99
+681,Envelopes,15.74,1.39
+682,Telephones and Communication,195.99,3.99
+683,Binders and Binder Accessories,24.92,12.98
+684,Office Machines,270.97,28.06
+685,Paper,12.28,6.35
+686,Office Machines,442.14,14.7
+687,Bookcases,70.98,26.74
+688,Storage & Organization,210.55,9.99
+689,Tables,182.55,69
+690,Computer Peripherals,32.98,5.5
+691,Binders and Binder Accessories,40.98,7.47
+692,Tables,417.4,75.23
+693,Telephones and Communication,35.99,5
+694,Office Furnishings,19.99,11.17
+695,Paper,6.68,6.92
+696,Tables,85.29,60
+697,Binders and Binder Accessories,4.13,5.34
+698,Office Furnishings,40.89,18.98
+699,Appliances,40.98,5.33
+700,Office Furnishings,22.23,3.63
+701,Appliances,14.81,13.32
+702,Chairs & Chairmats,95.95,74.35
+703,Chairs & Chairmats,300.98,64.73
+704,Paper,37.94,5.08
+705,Storage & Organization,161.55,19.99
+706,Computer Peripherals,80.98,7.18
+707,Office Machines,13.99,7.51
+708,Paper,15.04,1.97
+709,Storage & Organization,140.85,19.99
+710,Appliances,4.37,5.15
+711,Binders and Binder Accessories,4.98,4.95
+712,Telephones and Communication,55.99,5
+713,Telephones and Communication,65.99,4.99
+714,Office Machines,13.99,7.51
+715,Storage & Organization,20.34,35
+716,Telephones and Communication,155.99,3.9
+717,Storage & Organization,48.91,35
+718,Chairs & Chairmats,100.89,42
+719,Envelopes,3.69,2.5
+720,Telephones and Communication,35.99,1.25
+721,Paper,30.98,17.08
+722,Tables,348.21,40.19
+723,Paper,6.48,5.9
+724,Chairs & Chairmats,280.98,57
+725,Paper,9.99,11.59
+726,Binders and Binder Accessories,15.01,8.4
+727,"Scissors, Rulers and Trimmers",6.84,8.37
+728,"Scissors, Rulers and Trimmers",3.14,1.92
+729,Office Furnishings,99.23,8.99
+730,Telephones and Communication,85.99,0.99
+731,Chairs & Chairmats,226.67,28.16
+732,Computer Peripherals,30.98,6.5
+733,Paper,8.01,2.87
+734,Paper,4.98,5.02
+735,Office Furnishings,14.98,8.99
+736,Bookcases,100.98,35.84
+737,Office Furnishings,14.34,5
+738,Computer Peripherals,83.1,6.13
+739,Paper,37.94,5.08
+740,Paper,6.48,5.74
+741,Pens & Art Supplies,9.11,2.25
+742,Telephones and Communication,155.99,8.99
+743,Storage & Organization,193.17,19.99
+744,Pens & Art Supplies,34.58,8.99
+745,Storage & Organization,15.7,11.25
+746,Computer Peripherals,28.48,1.99
+747,Telephones and Communication,205.99,5.99
+748,Paper,9.27,4.39
+749,Chairs & Chairmats,90.98,30
+750,Storage & Organization,20.98,5.42
+751,Computer Peripherals,39.48,1.99
+752,Labels,2.61,0.5
+753,Storage & Organization,64.98,6.88
+754,Computer Peripherals,40.98,1.99
+755,Storage & Organization,15.14,4.53
+756,Appliances,131.12,0.99
+757,Telephones and Communication,200.99,4.2
+758,Copiers and Fax,499.99,24.49
+759,Office Furnishings,17.78,5.03
+760,Office Furnishings,70.71,37.58
+761,Tables,376.13,85.63
+762,Paper,4.76,0.88
+763,Computer Peripherals,39.48,1.99
+764,Labels,4.91,0.5
+765,Bookcases,180.98,23.58
+766,Chairs & Chairmats,150.98,30
+767,Computer Peripherals,4.77,2.39
+768,Storage & Organization,14.03,9.37
+769,Binders and Binder Accessories,5.4,7.78
+770,Computer Peripherals,7.28,3.52
+771,Pens & Art Supplies,2.88,1.01
+772,Telephones and Communication,195.99,3.99
+773,Paper,5.78,4.96
+774,Computer Peripherals,28.48,8.99
+775,Pens & Art Supplies,3.57,4.17
+776,Telephones and Communication,200.99,4.2
+777,Telephones and Communication,195.99,8.99
+778,Storage & Organization,52.99,19.99
+779,Bookcases,100.98,57.38
+780,Telephones and Communication,85.99,0.99
+781,Rubber Bands,1.26,0.7
+782,Paper,4.98,4.75
+783,Telephones and Communication,66.99,13.99
+784,Binders and Binder Accessories,6.54,5.27
+785,Storage & Organization,155.06,7.07
+786,Binders and Binder Accessories,2.08,1.49
+787,Chairs & Chairmats,160.98,30
+788,Storage & Organization,11.29,5.03
+789,Computer Peripherals,29.89,1.99
+790,Pens & Art Supplies,1.68,1.57
+791,Storage & Organization,28.28,13.99
+792,Binders and Binder Accessories,3.89,7.01
+793,Storage & Organization,15.31,8.78
+794,Office Furnishings,7.59,4
+795,Pens & Art Supplies,5.98,0.96
+796,"Scissors, Rulers and Trimmers",2.08,2.56
+797,Paper,5.98,5.46
+798,Telephones and Communication,45.99,2.5
+799,Binders and Binder Accessories,3.58,5.47
+800,Bookcases,100.98,35.84
+801,Paper,5.78,7.96
+802,Office Furnishings,14.34,5
+803,Envelopes,3.69,2.5
+804,Binders and Binder Accessories,4.91,4.97
+805,Storage & Organization,12.44,6.27
+806,Telephones and Communication,65.99,2.5
+807,Office Machines,297.64,14.7
+808,Binders and Binder Accessories,6.75,2.99
+809,Binders and Binder Accessories,7.1,6.05
+810,Computer Peripherals,20.95,4
+811,Binders and Binder Accessories,39.06,10.55
+812,Binders and Binder Accessories,3.52,6.83
+813,Storage & Organization,15.51,17.78
+814,Telephones and Communication,20.99,4.81
+815,Office Furnishings,14.58,7.4
+816,Computer Peripherals,8.33,1.99
+817,Paper,48.91,5.81
+818,Paper,6.48,7.49
+819,Paper,18.97,9.03
+820,Envelopes,5.98,2.5
+821,Office Furnishings,10.4,5.4
+822,Computer Peripherals,27.48,4
+823,Office Furnishings,17.67,8.99
+824,Paper,8.34,4.82
+825,Telephones and Communication,205.99,3
+826,Pens & Art Supplies,3.34,7.49
+827,Paper,6.48,5.19
+828,Appliances,78.65,13.99
+829,Paper,6.48,9.68
+830,Chairs & Chairmats,243.98,43.32
+831,Envelopes,52.71,2.5
+832,Appliances,41.71,4.5
+833,Envelopes,60.98,19.99
+834,"Scissors, Rulers and Trimmers",10.98,3.37
+835,Appliances,279.81,23.19
+836,Telephones and Communication,85.99,3.3
+837,Paper,4.28,5.17
+838,Telephones and Communication,175.99,4.99
+839,Office Machines,90.97,14
+840,Telephones and Communication,65.99,3.99
+841,Binders and Binder Accessories,30.44,1.49
+842,Binders and Binder Accessories,6.75,2.99
+843,Computer Peripherals,10.97,6.5
+844,Office Furnishings,10.64,5.16
+845,Appliances,4.06,6.89
+846,Binders and Binder Accessories,8.85,5.6
+847,Labels,3.15,0.5
+848,Appliances,48.92,4.5
+849,Binders and Binder Accessories,8.69,2.99
+850,"Scissors, Rulers and Trimmers",10.98,3.37
+851,Paper,8.01,2.87
+852,Paper,6.48,5.84
+853,Pens & Art Supplies,40.97,8.99
+854,Tables,154.13,69
+855,Binders and Binder Accessories,2.08,1.49
+856,Binders and Binder Accessories,3.8,1.49
+857,Labels,3.69,0.5
+858,Labels,2.88,0.5
+859,Office Furnishings,25.38,8.99
+860,Binders and Binder Accessories,5.74,5.01
+861,Labels,2.89,0.5
+862,Paper,48.91,5.81
+863,Pens & Art Supplies,2.58,1.3
+864,Binders and Binder Accessories,2.88,1.49
+865,Labels,3.75,0.5
+866,Rubber Bands,1.86,2.58
+867,Telephones and Communication,65.99,19.99
+868,Appliances,11.97,4.98
+869,Binders and Binder Accessories,28.53,1.49
+870,Computer Peripherals,15.28,1.99
+871,Office Furnishings,136.98,24.49
+872,Office Furnishings,30.93,3.92
+873,Chairs & Chairmats,110.98,30
+874,Office Furnishings,51.94,19.99
+875,Paper,19.98,8.68
+876,Office Furnishings,78.69,19.99
+877,Binders and Binder Accessories,28.53,1.49
+878,Telephones and Communication,65.99,3.99
+879,Office Furnishings,22.98,7.58
+880,Tables,179.29,56.2
+881,Envelopes,11.09,5.25
+882,Paper,48.04,7.23
+883,Storage & Organization,161.55,19.99
+884,Rubber Bands,5.81,3.37
+885,Storage & Organization,29.74,6.64
+886,Binders and Binder Accessories,3.81,5.44
+887,Chairs & Chairmats,95.95,74.35
+888,Rubber Bands,7.89,2.82
+889,Tables,124.49,51.94
+890,Office Furnishings,19.99,11.17
+891,Storage & Organization,16.91,6.25
+892,Rubber Bands,5.81,3.37
+893,Computer Peripherals,26.31,5.89
+894,Telephones and Communication,110.99,8.99
+895,Bookcases,100.98,35.84
+896,Office Machines,150.98,13.99
+897,Telephones and Communication,140.99,4.2
+898,Appliances,59.98,3.99
+899,Office Furnishings,14.58,7.4
+900,Computer Peripherals,31.78,1.99
+901,Pens & Art Supplies,2.78,1.34
+902,Appliances,60.98,49
+903,Telephones and Communication,125.99,8.08
+904,Telephones and Communication,125.99,8.8
+905,Chairs & Chairmats,276.2,24.49
+906,Office Furnishings,43.31,15.9
+907,Telephones and Communication,125.99,8.99
+908,Paper,5.78,7.64
+909,Telephones and Communication,45.99,4.99
+910,Computer Peripherals,30.98,4
+911,Binders and Binder Accessories,4.13,5.34
+912,Bookcases,130.98,54.74
+913,"Scissors, Rulers and Trimmers",3.14,1.92
+914,Envelopes,27.18,8.23
+915,Computer Peripherals,73.98,4
+916,"Scissors, Rulers and Trimmers",3.68,1.32
+917,Chairs & Chairmats,355.98,58.92
+918,Chairs & Chairmats,160.98,30
+919,Tables,280.98,35.67
+920,Computer Peripherals,179.99,19.99
+921,"Scissors, Rulers and Trimmers",6.84,8.37
+922,Envelopes,35.89,14.72
+923,Binders and Binder Accessories,6.75,2.99
+924,Paper,6.78,6.18
+925,Paper,5.78,5.67
+926,Binders and Binder Accessories,14.48,6.46
+927,Binders and Binder Accessories,420.98,19.99
+928,Labels,7.31,0.49
+929,Bookcases,130.98,54.74
+930,Paper,48.91,5.81
+931,Storage & Organization,111.03,8.64
+932,Appliances,208.16,68.02
+933,Office Furnishings,20.24,6.67
+934,Pens & Art Supplies,5.84,1.2
+935,Labels,3.69,0.5
+936,Labels,3.69,0.5
+937,"Scissors, Rulers and Trimmers",3.14,1.92
+938,Appliances,49.43,19.99
+939,Envelopes,83.93,19.99
+940,Computer Peripherals,73.98,14.52
+941,Computer Peripherals,10.01,1.99
+942,Binders and Binder Accessories,4.91,4.97
+943,Chairs & Chairmats,140.81,24.49
+944,Pens & Art Supplies,5.58,0.7
+945,Chairs & Chairmats,180.98,26.2
+946,Paper,6.48,5.19
+947,Appliances,40.98,5.33
+948,Copiers and Fax,599.99,24.49
+949,Paper,40.99,5.86
+950,Storage & Organization,15.31,8.78
+951,Telephones and Communication,35.99,5
+952,Pens & Art Supplies,16.99,8.99
+953,Computer Peripherals,39.24,1.99
+954,Paper,8.01,2.87
+955,Paper,6.48,8.73
+956,Bookcases,140.98,36.09
+957,Binders and Binder Accessories,120.98,9.07
+958,Telephones and Communication,85.99,0.99
+959,Tables,71.37,69
+960,Paper,6.98,1.6
+961,Computer Peripherals,20.97,4
+962,Paper,4.28,4.79
+963,Telephones and Communication,115.99,5.26
+964,Chairs & Chairmats,284.98,69.55
+965,Binders and Binder Accessories,1.8,4.79
+966,Labels,4.98,0.49
+967,Telephones and Communication,20.99,0.99
+968,Paper,4.28,5.68
+969,Tables,376.13,85.63
+970,Tables,424.21,110.2
+971,Telephones and Communication,195.99,8.99
+972,Chairs & Chairmats,113.98,30
+973,Computer Peripherals,30.73,4
+974,Paper,47.9,5.86
+975,Office Furnishings,17.67,8.99
+976,Telephones and Communication,20.99,4.81
+977,Chairs & Chairmats,291.73,48.8
+978,Paper,4.98,0.8
+979,Telephones and Communication,125.99,7.69
+980,Binders and Binder Accessories,1.88,1.49
+981,Computer Peripherals,152.48,4
+982,Binders and Binder Accessories,4.13,5.04
+983,Envelopes,4.48,2.5
+984,Computer Peripherals,7.28,3.52
+985,Binders and Binder Accessories,3.8,1.49
+986,Chairs & Chairmats,300.98,64.73
+987,Binders and Binder Accessories,5.4,7.78
+988,Paper,5.98,5.46
+989,Rubber Bands,3.95,2
+990,Chairs & Chairmats,160.98,30
+991,Computer Peripherals,17.98,4
+992,Telephones and Communication,115.99,8.99
+993,Chairs & Chairmats,120.98,30
+994,Labels,2.61,0.5
+995,Paper,6.48,9.54
+996,Office Furnishings,40.97,14.45
+997,Computer Peripherals,16.48,1.99
+998,Office Furnishings,20.24,6.67
+999,Paper,18.97,9.03
