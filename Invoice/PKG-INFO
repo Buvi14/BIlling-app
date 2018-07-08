@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: django-invoice
+Version: 0.3.2
+Summary: Django invoicing app.
+Home-page: http://github.com/simonluijk/django-invoice
+Author: Simon Luijk
+Author-email: simon@simonluijk.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet :: WWW/HTTP
